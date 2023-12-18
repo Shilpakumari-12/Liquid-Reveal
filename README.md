@@ -1,11 +1,20 @@
-#Liquid Content Reveal
+# Liquid Content Reveal
 
-Overview
-Liquid Content Reveal is a lightweight JavaScript library for creating interactive content reveals on web pages. It allows you to smoothly reveal hidden content (such as text, images, or other HTML elements) using liquid-like animation effects.
+## Overview
 
+Liquid Content Reveal is a JavaScript library that enables dynamic and interactive content reveal using liquid animations. This library provides a simple way to create engaging and visually appealing content reveal effects on your web pages.
 
-Features
-Fluid animation effects for content reveal.
-Customizable animation parameters (speed, easing, etc.).
-Easy integration with existing HTML and CSS.
-Responsive design for various screen sizes.
+## Features
+
+- **Liquid Animations:** Utilize smooth liquid animations to reveal content.
+- **Customizable:** Easily customize the animation parameters to fit your design.
+- **Responsive:** The library is designed to work seamlessly across various screen sizes.
+
+## Getting Started
+
+### Installation
+
+Include the Liquid Content Reveal library in your project:
+
+```html
+<script src="liquid-content-reveal.js"></script>
