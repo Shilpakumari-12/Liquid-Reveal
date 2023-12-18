@@ -17,4 +17,4 @@ Liquid Content Reveal is a JavaScript library that enables dynamic and interacti
 Include the Liquid Content Reveal library in your project:
 
 ```html
-<script src="liquid-content-reveal.js"></script>
+<script src="app.js"></script>
